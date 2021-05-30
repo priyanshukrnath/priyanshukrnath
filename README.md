@@ -31,3 +31,4 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshukrnath&show_icons=true&locale=en&layout=compact" alt="priyanshu0888" width="400" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshukrnath&show_icons=true&locale=en" alt="priyanshu0888" width="400" /></p>
+<img src="https://komarev.com/ghpvc/?username=priyanshukrnath&label=Profile%20views&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="pkn"  />
