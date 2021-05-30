@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar Nath</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33" height="33">, I'm Priyanshu Kumar Nath</h1>
 <h3 align="center">Pursuing Bachelor of Technology - BTech focused in Electronics and Communication Engineering from Indian Institute of Information Technology, Kota. Learning Python, Flutter and working on developing mobile apps and problem solving as well.</h3>
 
 - 🔭 I’m currently working on **developing cross platform mobile applications using FLUTTER.**
