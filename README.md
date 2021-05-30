@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/priyanshu_kr_nath" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="priyanshu_kr_nath" height="40" width="40" /></a>
 <a href="https://github.com/priyanshukrnath" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="priyanshu_kr_nath" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-kumar-nath-9a8199191/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="priyanshu_kr_nath" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
