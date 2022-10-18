@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **krpriyanshu885@gmail.com**
 
-- 😄 Pronouns: **He/Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
